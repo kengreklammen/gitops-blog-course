@@ -2,7 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: blog-config
-  namespace: demo-blog
+  namespace: kengreklammen-blog
 data:
   BLOG_TITLE: "This is my second try with the GitOps Blog"
   BLOG_SUBTITLE: "Mes aventures GitOps"
